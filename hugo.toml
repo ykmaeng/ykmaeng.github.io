@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://ykmaeng.blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'LoveIt'
+publishDir = 'docs'
