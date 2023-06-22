@@ -1,7 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - My New Hugo Site</title>
-        <link>http://ykmaeng.blog/categories/</link>
-        <description>Categories - Category - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://ykmaeng.blog/categories/" rel="self" type="application/rss+xml" /></channel>
+        <title>Categories - Category - Young&#39;s Blog</title>
+        <link>http://www.ykmaeng.blog/categories/</link>
+        <description>Categories - Category - Young&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-un</language><managingEditor>young@tellet.com (Young)</managingEditor>
+            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Sun, 18 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://www.ykmaeng.blog/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Markdown</title>
+    <link>http://www.ykmaeng.blog/categories/markdown/</link>
+    <pubDate>Sun, 18 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Young</author>
+    <guid>http://www.ykmaeng.blog/categories/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
