@@ -1,0 +1,11 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $.getJSON('https://api.github.com/users/ykmaeng/repos', function(data) {
+        $.each(data, function(index, repo) {
+            $('#github-projects').append('<p><a href="' + repo.html_url + '">' + repo.name + '</a></p>');
+        });
+    });
+});
+</script>
+<div id="github-projects"></div>
