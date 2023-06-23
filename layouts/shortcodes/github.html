@@ -3,7 +3,9 @@
 $(document).ready(function(){
     $.getJSON('https://api.github.com/users/ykmaeng/repos', function(data) {
         $.each(data, function(index, repo) {
-            $('#github-projects').append('<p><a href="' + repo.html_url + '">' + repo.name + '</a></p>');
+            if (!repo.fork) {
+                $('#github-projects').append('<p><a href="' + repo.html_url + '">' + repo.name + '</a></p>');
+            }
         });
     });
 });

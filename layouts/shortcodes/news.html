@@ -1,0 +1,16 @@
+{{ $url := .Get "url" }}
+{{ $json := getJSON $url }}
+{{ $items := $json.items | first 3 }}
+
+<div class="news-feed">
+    {{ range $index, $element := $items }}
+        <div class="news-item">
+            <h2><a href="{{ .link }}">{{ .title }}</a></h2>
+            <div id="content{{ $index }}" class="news-content" style="display: none;">
+              {{ .content | safeHTML }}
+            </div>
+            <p class="news-date">Published on: {{ .pubDate }}</p>
+        </div>
+        <hr>
+    {{ end }}
+</div>
