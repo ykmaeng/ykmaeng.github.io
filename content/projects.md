@@ -1,20 +1,20 @@
 ---
-title: "My Github Projects"
+title: "My Projects"
 ---
 
-# Projects
+## Projects
 
 This page lists all of my GitHub projects.
 
 {{< github >}}
 
-## My First Project
+### My First Project
 
 This is my first GitHub project. It's a simple website that I built using Hugo.
 
 [Readme](https://github.com/ykmaeng/DTRS/blob/master/README.md)
 
-## My Second Project
+### My Second Project
 
 This is my second GitHub project. It's a more complex website that I built using Hugo and React.
 

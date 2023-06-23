@@ -4,21 +4,5 @@
         <link>http://www.ykmaeng.blog/tags/</link>
         <description>Tags - Tag - Young&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-un</language><managingEditor>young@tellet.com (Young)</managingEditor>
-            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Sun, 18 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://www.ykmaeng.blog/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>HTML</title>
-    <link>http://www.ykmaeng.blog/tags/html/</link>
-    <pubDate>Sun, 18 Jun 2023 00:00:00 &#43;0000</pubDate>
-    <author>Young</author>
-    <guid>http://www.ykmaeng.blog/tags/html/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Markdown</title>
-    <link>http://www.ykmaeng.blog/tags/markdown/</link>
-    <pubDate>Sun, 18 Jun 2023 00:00:00 &#43;0000</pubDate>
-    <author>Young</author>
-    <guid>http://www.ykmaeng.blog/tags/markdown/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+            <webMaster>young@tellet.com (Young)</webMaster><atom:link href="http://www.ykmaeng.blog/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
