@@ -1,0 +1,10 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://www.ykmaeng.blog/news/</loc><lastmod>2023-06-24T00:05:07&#43;12:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.ykmaeng.blog/about/</loc><lastmod>2023-06-24T00:05:07&#43;12:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.ykmaeng.blog/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://www.ykmaeng.blog/projects/</loc><lastmod>2023-06-24T00:05:07&#43;12:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.ykmaeng.blog/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://www.ykmaeng.blog/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
