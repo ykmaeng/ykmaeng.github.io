@@ -46,7 +46,7 @@ Promoting collaboration requires an integrated approach, combining cultural shif
 
 In our interconnected world, embracing and promoting collaboration isn't just a nice-to-have – it's a must-have for any organization or society hoping to thrive in the 21st century.
 
-{{< admonition note "Paraphrasing:" >}}
+{{< admonition note "Paraphrase" >}}
 ## Introduction:
 In our rapidly changing world, the power of collaboration serves as a key factor for success. This is relevant not only within businesses but across different sectors and countries, as working towards shared objectives becomes increasingly crucial. This piece aims to explore the advantages of collaboration, methods to enhance it, and practical examples that demonstrate its impact.
 
