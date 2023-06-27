@@ -1,13 +1,9 @@
-# Manager or Mentor
-
-
-In a frank discussion on diversity with a large group of Harvard University managers, HBS professor David A. Thomas explains why managers need to do more than just mentor.
-
-<!--more-->
-
 # Manager or Mentor? Why You Must Be Both
 
+
 An article from Harvard Business School Working Knowledge emphasizes the importance of managers acting as both performance evaluators and mentors. Here are some key insights from the article:
+
+<!--more-->
 
 ## Developmental Relationships
 

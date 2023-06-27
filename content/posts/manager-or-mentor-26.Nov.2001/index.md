@@ -1,19 +1,16 @@
 ---
-title: "Manager or Mentor"
-subtitle: "by Martha Lagace on Nov. 26, 2001"
+title: "Manager or Mentor? Why You Must Be Both"
+subtitle: "by Martha Lagace, 26 NOV 2001"
 date: 2023-06-26T22:29:51+12:00
-tags: ["manager", "mentor", "havard", "business", "Martha Lagace"]
+tags: ["manager", "mentor", "havard", "business", "Martha Lagace", "chatgpt"]
 categories: ["article"]
+author: "ChatGPT"
 # draft: true
 ---
 
-In a frank discussion on diversity with a large group of Harvard University managers, HBS professor David A. Thomas explains why managers need to do more than just mentor.
+An article from Harvard Business School Working Knowledge emphasizes the importance of managers acting as both performance evaluators and mentors. Here are some key insights from the article:
 
 <!--more-->
-
-# Manager or Mentor? Why You Must Be Both
-
-An article from Harvard Business School Working Knowledge emphasizes the importance of managers acting as both performance evaluators and mentors. Here are some key insights from the article:
 
 ## Developmental Relationships
 

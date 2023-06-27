@@ -4,7 +4,8 @@ subtitle: "Menager or mentor?"
 date: 2023-06-26T23:17:21+12:00
 tags: ["manager", "mentor", "chatgpt", "NZLC", "business", "english"]
 categories: ["article"]
-toc: false
+author: "ChatGPT"
+# toc: false
 # draft: true
 ---
 
@@ -27,5 +28,3 @@ A supportive organization possesses the capability to make newcomers feel welcom
 ## The Evolution of Leadership
 
 Although challenging traditional norms, the transition from an autocratic boss to a compassionate leader is sometimes essential. This change can stimulate business growth and drive the organization forward. Therefore, a cooperative, nurturing atmosphere might be the key ingredient an organization needs to stand out in an increasingly competitive business environment.
-
-<p align="right"><i>Written by ChatGPT</i></p>

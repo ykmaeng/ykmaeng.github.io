@@ -4,6 +4,7 @@ subtitle: ""
 date: {{ .Date }}
 tags: []
 categories: ["life"]
+author: "Young"
 draft: true
 ---
 
