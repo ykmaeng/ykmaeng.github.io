@@ -1,6 +1,6 @@
 ---
 title: "Harnessing the Power of Cooperation"
-subtitle: "A Comprehensive Guide to Boosting Collaboratio"
+subtitle: "A Comprehensive Guide to Boosting Collaboration"
 date: 2023-06-27T23:02:56+12:00
 tags: ["cooperation", "collaboration", "business", "communication", "english", "chatgpt"]
 categories: ["article"]

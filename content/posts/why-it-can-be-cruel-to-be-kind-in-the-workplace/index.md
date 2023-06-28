@@ -44,25 +44,25 @@ Kindness and corporate success are not mutually exclusive, but balancing the two
 
 {{< admonition note "Idioms" >}}
 
-### 1. Killed by Kindness
+### Killed by Kindness
 
 This phrase is used to denote a situation where one's good intentions or excessive generosity lead to negative outcomes. This is often because the kindness is inappropriate for the situation or is simply too much. 
 
 <font color="#009999">Example: The owner of Malden Mills rehired his entire workforce after a catastrophic fire, instead of moving production overseas. His good intentions, however, misjudged the global market situation and led to bankruptcy. In this case, the company was "killed by kindness".</font>
 
-### 2. Cautionary Tale
+### Cautionary Tale
 
 A "cautionary tale" refers to a story or an anecdote that's used as a warning to others. It shows what could potentially go wrong if a specific course of action is pursued. 
 
 <font color="009999">Example: The story of Malden Mills could be considered a "cautionary tale" about the risks of excessive kindness in business. It serves as a warning to other companies about the potential dangers of making decisions based purely on benevolence without considering the market realities.</font>
 
-### 3. Cut the Mustard
+### Cut the Mustard
 
 The phrase "cut the mustard" means to meet a required standard, or to be able to handle a task or job. 
 
 <font color="009999">Example: When Etsy became a listed company, it needed to toughen up and become more business-oriented. Its original, folksy CEO didn't "cut the mustard" - he wasn't able to meet the demands of the new situation.</font>
 
-### 4. Make a Hard Call
+### Make a Hard Call
 
 To "make a hard call" means to make a difficult decision, often one that might be unpopular or have negative consequences for some people.
 
@@ -72,30 +72,44 @@ To "make a hard call" means to make a difficult decision, often one that might b
 
 {{< admonition note "Useful Phrases" >}}
 
-### 1. Exude Kindness
+### Exude Kindness
 
 To "exude kindness" means to demonstrate a high level of kindness in one's behavior or presence. It implies that kindness is a noticeable part of one's character.
 
 <font color="009999">Example: The ideal candidate for a job at the Financial Times was expected to "exude kindness", signaling the importance of this quality in the workplace.</font>
 
-### 2. Sweating a Quality
+### Sweating a Quality
 
 The phrase "sweating a quality" means trying too hard to demonstrate a particular attribute or trait, to the point where it may appear insincere or excessive.
 
 <font color="009999">Example: If a person is perceived as "sweating kindness", it might suggest that they are forcing themselves to be kind rather than it being a natural part of their character.</font>
 
-### 3. Pay it Forward
+### Pay it Forward
 
 To "pay it forward" means to respond to a kind gesture by being kind to someone else, rather than by repaying the original benefactor.
 
 <font color="009999">Example: A study at Coca-Cola’s Madrid site showed that workers who benefited from small acts of kindness amplified their own positive behavior by "paying it forward".</font>
 
-### 4. Drop a Loving Note
+### Drop a Loving Note
 
 "Dropping a loving note" refers to the act of leaving a kind or loving message for someone to find unexpectedly.
 
 <font color="009999">Example: Kind Snacks suggested to "drop a loving note into a friend’s bag for them to discover later" as a way to spread kindness, though it’s important to consider the appropriateness of this action depending on the relationship.</font>
 
-Understanding these expressions can further enhance your proficiency in Business English.
+{{< /admonition >}}
+
+{{< admonition note "Cleft-like Setences" >}}
+
+"**What is more, research confirms workplace warmheartedness has wider benefits.**"
+   
+   * This sentence emphasizes the role of research in confirming the broader benefits of warmheartedness in the workplace.
+
+"**One of the hardest pieces of advice to new managers is to distance themselves from ex-teammates.**"
+   
+   * This sentence underscores the difficulty of a specific piece of advice given to new managers: distancing themselves from former teammates.
+
+"**That is the attitude Kind Snacks is out to promote.**"
+   
+   * This sentence highlights the particular attitude that Kind Snacks aims to promote.
 
 {{< /admonition >}}

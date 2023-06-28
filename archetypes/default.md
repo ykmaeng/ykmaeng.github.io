@@ -6,10 +6,9 @@ tags: []
 categories: ["life"]
 author: "Young"
 authorLink: ""
-lightgallery: true
 
-toc:
-    auto: false
+toc: false
+lightgallery: true
 
 draft: true
 ---
