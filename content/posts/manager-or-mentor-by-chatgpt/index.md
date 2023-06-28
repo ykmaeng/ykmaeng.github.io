@@ -2,9 +2,11 @@
 title: "The Power of Fostering a Cooperative Environment in Business"
 subtitle: "Menager or mentor?"
 date: 2023-06-26T23:17:21+12:00
-tags: ["manager", "mentor", "chatgpt", "NZLC", "business", "english"]
+tags: ["manager", "mentor", "chatgpt", "business", "english"]
 categories: ["article"]
 author: "ChatGPT"
+lightgallery: true
+
 # toc: false
 # draft: true
 ---

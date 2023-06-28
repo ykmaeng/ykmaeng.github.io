@@ -2,9 +2,11 @@
 title: "Manager or Mentor? Why You Must Be Both"
 subtitle: "by Martha Lagace, 26 NOV 2001"
 date: 2023-06-26T22:29:51+12:00
-tags: ["manager", "mentor", "havard", "business", "Martha Lagace", "chatgpt"]
+tags: ["manager", "mentor", "havard", "business", "Martha Lagace", "chatgpt", "english"]
 categories: ["article"]
 author: "ChatGPT"
+lightgallery: true
+
 # draft: true
 ---
 

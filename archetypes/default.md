@@ -5,6 +5,12 @@ date: {{ .Date }}
 tags: []
 categories: ["life"]
 author: "Young"
+authorLink: ""
+lightgallery: true
+
+toc:
+    auto: false
+
 draft: true
 ---
 
