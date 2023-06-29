@@ -1,7 +1,10 @@
 # Why It Can Be Cruel to Be Kind in the Workplace
 
 
-_Source: [Why it can be cruel to be kind in the workplace](https://www.ft.com/content/3421259a-d5b8-11e7-a303-9060cb1e5f44)_
+- _Written by: [Andrew Hill](https://www.ft.com/andrew-hill) on 12 DEC 2017_
+- _Source: [Why it can be cruel to be kind in the workplace](https://www.ft.com/content/3421259a-d5b8-11e7-a303-9060cb1e5f44)_
+
+<!--more-->
 
 Alongside the predictable specifications for a job vacancy at the Financial Times — problem-solving, tenacity, and so on — is one I haven’t seen before. The ideal candidate must “`exude kindness`”.
 
@@ -31,7 +34,7 @@ On the other hand, Satya Nadella, Microsoft’s chief executive, sees no contrad
 
 Kindness and corporate success are not mutually exclusive, but balancing the two is a fine art. One of the hardest pieces of advice to new managers is to distance themselves from ex-teammates. Too often, they take this as an invitation to start behaving coldly. But a manager who exudes kindness all the time risks destroying the trust of his team, when, inevitably, what seems the kindest thing to do clashes with what is the right thing.
 
-{{< admonition note "Idioms" >}}
+{{< admonition type=note title="Idioms" open=false >}}
 
 ### Killed by Kindness
 
@@ -59,7 +62,7 @@ To "make a hard call" means to make a difficult decision, often one that might b
 
 {{< /admonition >}}
 
-{{< admonition note "Useful Phrases" >}}
+{{< admonition type=note title="Useful Phrases" open=false >}}
 
 ### Exude Kindness
 
@@ -87,7 +90,7 @@ To "pay it forward" means to respond to a kind gesture by being kind to someone 
 
 {{< /admonition >}}
 
-{{< admonition note "Cleft-like Setences" >}}
+{{< admonition type=note title="Cleft-like Sentences" open=false >}}
 
 "**What is more, research confirms workplace warmheartedness has wider benefits.**"
    

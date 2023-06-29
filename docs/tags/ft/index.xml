@@ -1,18 +1,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>ft - Tag - Young&#39;s Blog</title>
+        <title>FT - Tag - Young&#39;s Blog</title>
         <link>http://www.ykmaeng.blog/tags/ft/</link>
-        <description>ft - Tag - Young&#39;s Blog</description>
+        <description>FT - Tag - Young&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-un</language><managingEditor>young@tellet.com (Young)</managingEditor>
-            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Mon, 04 Dec 2017 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://www.ykmaeng.blog/tags/ft/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Wed, 28 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://www.ykmaeng.blog/tags/ft/" rel="self" type="application/rss+xml" /><item>
     <title>Why It Can Be Cruel to Be Kind in the Workplace</title>
     <link>http://www.ykmaeng.blog/why-it-can-be-cruel-to-be-kind-in-the-workplace/</link>
-    <pubDate>Mon, 04 Dec 2017 00:00:00 &#43;0000</pubDate>
-    <author>Andrew Hill</author>
+    <pubDate>Wed, 28 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Young</author>
     <guid>http://www.ykmaeng.blog/why-it-can-be-cruel-to-be-kind-in-the-workplace/</guid>
-    <description><![CDATA[Source: Why it can be cruel to be kind in the workplace
-Alongside the predictable specifications for a job vacancy at the Financial Times — problem-solving, tenacity, and so on — is one I haven’t seen before. The ideal candidate must “exude kindness”.
-As a rule, I would say that if you are actually sweating a quality, you are probably trying too hard. Nobody thinks “he oozes niceness” is a compliment.]]></description>
+    <description><![CDATA[<ul>
+<li><em>Written by: <a href="https://www.ft.com/andrew-hill" target="_blank" rel="noopener noreffer ">Andrew Hill</a> on 12 DEC 2017</em></li>
+<li><em>Source: <a href="https://www.ft.com/content/3421259a-d5b8-11e7-a303-9060cb1e5f44" target="_blank" rel="noopener noreffer ">Why it can be cruel to be kind in the workplace</a></em></li>
+</ul>]]></description>
 </item>
 </channel>
 </rss>

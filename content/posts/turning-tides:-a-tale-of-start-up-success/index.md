@@ -24,7 +24,7 @@ Understanding the gravity of their situation, they knew they had to **get on the
 Their determination paid off when they finally solved the technical issues. Their AI product was a hit in the market, turning their struggling start-up into a successful company. The product was, indeed, the **gamechanger** they had always believed it would be.
 
 
-{{< admonition note "Phrases" >}}
+{{< admonition note "Useful Phrases" >}}
 
 - **No-brainer**: Something that is really easy to decide or understand.
 - **Put all your eggs in one basket**: To risk all your resources on a single venture.
