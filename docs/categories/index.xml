@@ -1,39 +1,39 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Young&#39;s Blog</title>
-        <link>http://www.ykmaeng.blog/categories/</link>
+        <link>https://www.helloyou.ng/categories/</link>
         <description>Categories - Category - Young&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-un</language><managingEditor>young@tellet.com (Young)</managingEditor>
-            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Thu, 29 Jun 2023 21:27:31 &#43;1200</lastBuildDate><atom:link href="http://www.ykmaeng.blog/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Thu, 29 Jun 2023 21:27:31 &#43;1200</lastBuildDate><atom:link href="https://www.helloyou.ng/categories/" rel="self" type="application/rss+xml" /><item>
     <title>english</title>
-    <link>http://www.ykmaeng.blog/categories/english/</link>
+    <link>https://www.helloyou.ng/categories/english/</link>
     <pubDate>Thu, 29 Jun 2023 21:27:31 &#43;1200</pubDate>
     <author>Young</author>
-    <guid>http://www.ykmaeng.blog/categories/english/</guid>
+    <guid>https://www.helloyou.ng/categories/english/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>grammar</title>
-    <link>http://www.ykmaeng.blog/categories/grammar/</link>
+    <link>https://www.helloyou.ng/categories/grammar/</link>
     <pubDate>Thu, 29 Jun 2023 21:27:31 &#43;1200</pubDate>
     <author>Young</author>
-    <guid>http://www.ykmaeng.blog/categories/grammar/</guid>
+    <guid>https://www.helloyou.ng/categories/grammar/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>story</title>
-    <link>http://www.ykmaeng.blog/categories/story/</link>
+    <link>https://www.helloyou.ng/categories/story/</link>
     <pubDate>Wed, 28 Jun 2023 23:55:10 &#43;1200</pubDate>
     <author>Young</author>
-    <guid>http://www.ykmaeng.blog/categories/story/</guid>
+    <guid>https://www.helloyou.ng/categories/story/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>article</title>
-    <link>http://www.ykmaeng.blog/categories/article/</link>
+    <link>https://www.helloyou.ng/categories/article/</link>
     <pubDate>Wed, 28 Jun 2023 00:00:00 &#43;0000</pubDate>
     <author>Young</author>
-    <guid>http://www.ykmaeng.blog/categories/article/</guid>
+    <guid>https://www.helloyou.ng/categories/article/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
