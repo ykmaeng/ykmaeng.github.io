@@ -1,17 +1,5 @@
----
-title: "Emails - Stating Requirements"
-subtitle: "in Pearson Business English B+"
-date: 2023-07-04T21:26:31+12:00
-tags: ['email', "business", "english"]
-categories: ["english", "grammar"]
-author: "Young"
-authorLink: ""
+# Emails - Stating Requirements
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 Complete the email from a mentor with one word in each gap.
 
