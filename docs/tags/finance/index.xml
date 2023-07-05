@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>story - Category - Young&#39;s Blog</title>
-        <link>https://www.helloyou.ng/categories/story/</link>
-        <description>story - Category - Young&#39;s Blog</description>
+        <title>finance - Tag - Young&#39;s Blog</title>
+        <link>https://www.helloyou.ng/tags/finance/</link>
+        <description>finance - Tag - Young&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-un</language><managingEditor>young@tellet.com (Young)</managingEditor>
-            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Wed, 05 Jul 2023 16:59:42 &#43;1200</lastBuildDate><atom:link href="https://www.helloyou.ng/categories/story/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Wed, 05 Jul 2023 16:59:42 &#43;1200</lastBuildDate><atom:link href="https://www.helloyou.ng/tags/finance/" rel="self" type="application/rss+xml" /><item>
     <title>Sarah&#39;s Financial Voyage: Navigating Expenses, Inheritance, and Unexpected Challenges</title>
     <link>https://www.helloyou.ng/sarahs-financial-voyage/</link>
     <pubDate>Wed, 05 Jul 2023 16:59:42 &#43;1200</pubDate>
@@ -23,13 +23,12 @@ Sarah was meticulous when it came to managing her bills and expenses. She dilige
 Lily diligently managed her finances, keeping a close eye on her bank account and creating a detailed budget. With her monthly income, she allocated funds for various expenses, such as rent, groceries, transportation, and entertainment.]]></description>
 </item>
 <item>
-    <title>Turning Tides: A Tale of Start-Up Success</title>
-    <link>https://www.helloyou.ng/turning-tides-a-tale-of-start-up-success/</link>
-    <pubDate>Wed, 28 Jun 2023 23:55:10 &#43;1200</pubDate>
-    <author>ChatGPT</author>
-    <guid>https://www.helloyou.ng/turning-tides-a-tale-of-start-up-success/</guid>
-    <description><![CDATA[In the heart of Silicon Valley, a tale unfolded of two childhood friends, John and Sarah, who dared to dream. They launched a tech start-up, armed with an AI product they believed would revolutionize the industry. The investors shared their belief, seeing the project as a no-brainer opportunity worth backing.
-However, the duo chose a risky path, putting all their eggs in one basket, betting everything on the success of their AI project.]]></description>
+    <title>Mobile banking is transforming Africa</title>
+    <link>https://www.helloyou.ng/mobile-banking-is-transforming-africa/</link>
+    <pubDate>Tue, 04 Jul 2023 21:51:47 &#43;1200</pubDate>
+    <author>Young</author>
+    <guid>https://www.helloyou.ng/mobile-banking-is-transforming-africa/</guid>
+    <description><![CDATA[Imagine you live in rural Kenya, and your daughter attends university in Nairobi and needs help to buy books and pay the rent. How do you send money without a bank account or the internet? Some countries have various options, including PayPal, online banking, or money orders. However, many people in rural communities don&rsquo;t have access to basic banking services such as direct debit. There are two billion 'unbanked' adults in developing countries that cannot make transactions or transfer money.]]></description>
 </item>
 </channel>
 </rss>

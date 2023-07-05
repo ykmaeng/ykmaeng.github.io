@@ -4,7 +4,23 @@
         <link>https://www.helloyou.ng/categories/</link>
         <description>Categories - Category - Young&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-un</language><managingEditor>young@tellet.com (Young)</managingEditor>
-            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Tue, 04 Jul 2023 21:26:31 &#43;1200</lastBuildDate><atom:link href="https://www.helloyou.ng/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Wed, 05 Jul 2023 16:59:42 &#43;1200</lastBuildDate><atom:link href="https://www.helloyou.ng/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>story</title>
+    <link>https://www.helloyou.ng/categories/story/</link>
+    <pubDate>Wed, 05 Jul 2023 16:59:42 &#43;1200</pubDate>
+    <author>Young</author>
+    <guid>https://www.helloyou.ng/categories/story/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>article</title>
+    <link>https://www.helloyou.ng/categories/article/</link>
+    <pubDate>Tue, 04 Jul 2023 21:51:47 &#43;1200</pubDate>
+    <author>Young</author>
+    <guid>https://www.helloyou.ng/categories/article/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>english</title>
     <link>https://www.helloyou.ng/categories/english/</link>
     <pubDate>Tue, 04 Jul 2023 21:26:31 &#43;1200</pubDate>
@@ -18,22 +34,6 @@
     <pubDate>Tue, 04 Jul 2023 21:26:31 &#43;1200</pubDate>
     <author>Young</author>
     <guid>https://www.helloyou.ng/categories/grammar/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>story</title>
-    <link>https://www.helloyou.ng/categories/story/</link>
-    <pubDate>Wed, 28 Jun 2023 23:55:10 &#43;1200</pubDate>
-    <author>Young</author>
-    <guid>https://www.helloyou.ng/categories/story/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>article</title>
-    <link>https://www.helloyou.ng/categories/article/</link>
-    <pubDate>Wed, 28 Jun 2023 00:00:00 &#43;0000</pubDate>
-    <author>Young</author>
-    <guid>https://www.helloyou.ng/categories/article/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
