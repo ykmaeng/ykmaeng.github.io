@@ -3,7 +3,7 @@ title: "Emails - Stating Requirements"
 subtitle: "in Pearson Business Partner B+"
 date: 2023-07-04T21:26:31+12:00
 tags: ['email', "business", "english"]
-categories: ["english", "grammar"]
+categories: ["grammar"]
 author: "Young"
 authorLink: ""
 

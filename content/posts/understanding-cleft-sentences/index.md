@@ -3,7 +3,7 @@ title: "Understanding Cleft Sentences"
 subtitle: ""
 date: 2023-06-29T21:27:31+12:00
 tags: ["english", "grammar", "cleft sentence"]
-categories: ["english", "grammar"]
+categories: ["grammar"]
 author: "ChatGPT"
 authorLink: ""
 
