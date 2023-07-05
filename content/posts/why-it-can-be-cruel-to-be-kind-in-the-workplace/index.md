@@ -11,7 +11,7 @@ toc: false
 # draft: true
 ---
 
-{{< style "text-align:right; strong{color:#00b1ff;}" >}}
+{{< style "text-align:right;" >}}
 _Written by [Andrew Hill](https://www.ft.com/andrew-hill) on 12 DEC 2017_  
 _Source: [Why it can be cruel to be kind in the workplace](https://www.ft.com/content/3421259a-d5b8-11e7-a303-9060cb1e5f44)_
 {{< /style >}}

@@ -11,11 +11,11 @@ With guidance from a financial advisor, Sarah explored various options for the i
 
 Feeling a sense of relief and newfound financial freedom, Sarah turned her attention to her long-term goals. She decided to use the remainder of the inheritance as a `down payment` on a mortgage for a modest yet charming house. This investment would not only provide her with a place to call home but also serve as an asset that could appreciate in value over time.
 
-As Sarah settled into her new home, she encountered `unexpected expenses` that come with homeownership. The sudden need for repairs and maintenance tested her `financial resilience`. However, Sarah had planned ahead and set up an emergency fund to handle such situations. Drawing from her fund, she tackled the unexpected costs without experiencing financial strain.
+As Sarah settled into her new home, she encountered `unexpected expenses` that come with homeownership. The sudden need for repairs and maintenance tested her `financial resilience`. However, Sarah had planned ahead and `set up an emergency fund` nto handle such situations. Drawing from her fund, she tackled the unexpected costs without experiencing financial strain.
 
 Over time, Sarah's financial discipline and proactive approach `paid off`. She continued to manage her bills and expenses diligently, ensuring that she `lived within her means`. Sarah took the initiative to grow her financial knowledge, attending workshops and seminars to further enhance her understanding of investments and personal finance.
 
-As the years went by, Sarah's financial stability and success became an inspiration to those around her. She shared her knowledge and experience, helping friends and family `navigate their own financial journeys`. Sarah's story served as a reminder that with careful planning, wise decision-making, and the ability to adapt to unexpected circumstances, financial security and independence could be achieved.
+As the years went by, Sarah's financial stability and success became an inspiration to those around her. She shared her knowledge and experience, helping friends and family `navigate their own financial` journeys. Sarah's story served as a reminder that with careful planning, wise decision-making, and the ability to adapt to unexpected circumstances, financial security and independence could be achieved.
 
 In the bustling city of Havenville, Sarah's journey became a testament to the power of financial acumen, initiative, and resilience. Her story motivated others to take charge of their own financial futures, showing them that even unexpected `windfalls` and sudden expenses could be navigated successfully with the right mindset and approach.
 
@@ -38,6 +38,8 @@ In the bustling city of Havenville, Sarah's journey became a testament to the po
 
 8. **Live within one's means:** This phrase means to spend money only on what one can afford based on their income and financial resources. Sarah's commitment to living within her means implies that she manages her expenses in a way that aligns with her financial capabilities.
 
-9. **Navigating financial challenges**: This expression indicates successfully maneuvering through difficult financial situations or obstacles. Sarah's ability to navigate unexpected expenses and make sound financial decisions showcases her resilience and adaptability.
+9. **Navigating personal finance**: This expression refers to effectively managing one's own financial situation, making informed decisions about income, expenses, savings, and investments. The story highlights Sarah's ability to navigate personal finance, demonstrating her skills in financial planning and decision-making.
+
+10. **Set up an emergency fund**: This expression refers to creating a separate fund or account specifically designated for unexpected expenses or emergencies. Sarah sets up an emergency fund to handle unforeseen costs associated with homeownership, emphasizing the importance of having a financial safety net.
 
 {{< /admonition >}}
