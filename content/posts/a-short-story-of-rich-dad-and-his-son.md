@@ -43,7 +43,7 @@ The boy's father was speechless. Then his son added:
 
 
 > Moral of the Story:
-{{< style "strong{color:#555555;}" >}}
+{{< style "text-align:left; strong{color:#555555;}" >}}
 **"It is not about money that makes us rich; it is simplicity, love, compassion, friendships, values, and family that make our lives rich".**
 {{< /style >}}
 
