@@ -42,10 +42,12 @@ The boy's father was speechless. Then his son added:
 {{< /typeit >}}
 
 
-> {{< typeit group=1 >}} Moral of the Story:
+> {{< typeit group=1 >}}
+Moral of the Story:
 {{< style "strong{color:#555555}" >}}
 **"It is not about money that makes us rich; it is simplicity, love, compassion, friendships, values, and family that make our lives rich".**
-{{< /style >}}{{< /typeit >}} 
+{{< /style >}}
+{{< /typeit >}} 
 
 
 _Source: [@MasculineMind_](https://twitter.com/MasculineMind_)_
