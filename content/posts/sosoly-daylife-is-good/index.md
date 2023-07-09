@@ -12,6 +12,9 @@ lightgallery: true
 
 # draft: true
 ---
+
+![Neighborhood](neighborhood-nz.jpeg "집에서 바라본 마을 전경")
+
 <p> {{< typeit >}}
 일상의 소소함은 때론 행복이라는 이름으로 찾아온다.
 {{< /typeit >}} </p>
