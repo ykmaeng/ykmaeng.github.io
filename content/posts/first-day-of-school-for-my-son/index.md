@@ -1,5 +1,5 @@
 ---
-title: "First Day of Shcool for My Son"
+title: "First Day of School for My Son"
 subtitle: ""
 date: 2023-07-17T19:46:19+12:00
 tags: ["다니엘", "첫등교", "학교", "실버데일스쿨", "silverdale"]
@@ -26,7 +26,7 @@ lightgallery: true
 수고했어 아들, 내일도 엄마랑 잘 떨어질거지?  
 아빠도 내일은 학교 갈거야 - _-/
 
-사랑해~~
+사랑해~~ 😘
 
 -------
 
@@ -41,6 +41,6 @@ Anyway, he made it through his first day at school, and on the way home, we even
 Well done, my son. You'll be fine without mom tomorrow, right?   
 Dad will also go to school tomorrow - _-/
 
-Love you~~
+Love you~~ 😘
 
 ![Daniel-2](daniel-2.jpeg "교실에서 엄마와 협상중(?)")
