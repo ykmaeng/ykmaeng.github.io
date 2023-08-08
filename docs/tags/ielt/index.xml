@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>essay - Category - Young&#39;s Blog</title>
-        <link>https://www.helloyou.ng/categories/essay/</link>
-        <description>essay - Category - Young&#39;s Blog</description>
+        <title>ielt - Tag - Young&#39;s Blog</title>
+        <link>https://www.helloyou.ng/tags/ielt/</link>
+        <description>ielt - Tag - Young&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-un</language><managingEditor>young@tellet.com (Young)</managingEditor>
-            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Tue, 08 Aug 2023 20:45:09 &#43;1200</lastBuildDate><atom:link href="https://www.helloyou.ng/categories/essay/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Tue, 08 Aug 2023 20:45:09 &#43;1200</lastBuildDate><atom:link href="https://www.helloyou.ng/tags/ielt/" rel="self" type="application/rss+xml" /><item>
     <title>IELTS: Writing an Essay About Culture</title>
     <link>https://www.helloyou.ng/ielts-writing-an-essay-about-culture/</link>
     <pubDate>Tue, 08 Aug 2023 20:45:09 &#43;1200</pubDate>
@@ -97,24 +97,6 @@
 </div>
         </div>
     </div>]]></description>
-</item>
-<item>
-    <title>The Necessity of Sustainable Practices in Modern Society</title>
-    <link>https://www.helloyou.ng/the-necessity-of-sustainable-practices-in-modern-society/</link>
-    <pubDate>Tue, 18 Jul 2023 21:06:05 &#43;1200</pubDate>
-    <author>ChatGPT</author>
-    <guid>https://www.helloyou.ng/the-necessity-of-sustainable-practices-in-modern-society/</guid>
-    <description><![CDATA[Climate change, a pressing global issue, has captured the world's attention due to its escalating impact on our daily lives. Rising temperatures, increased severity and frequency of natural disasters, and depleting natural resources are among the serious consequences of this worldwide phenomenon. However, scientists and policymakers have shown that sustainable practices can mitigate these effects and ensure the well-being of future generations.
-The overconsumption of natural resources is one of the most critical environmental issues of the 21st century.]]></description>
-</item>
-<item>
-    <title>Climate Change and Global Health: An Interconnected Challenge</title>
-    <link>https://www.helloyou.ng/climate-change-and-global-health/</link>
-    <pubDate>Mon, 10 Jul 2023 21:55:03 &#43;1200</pubDate>
-    <author>ChatGPT</author>
-    <guid>https://www.helloyou.ng/climate-change-and-global-health/</guid>
-    <description><![CDATA[Climate change, characterized by rising global temperatures, melting ice caps, and extreme weather conditions, presents one of the greatest threats to global health in the 21st century. The consequences of climate change are far-reaching, exacerbating health inequities and affecting the social and environmental determinants of health, including clean air, safe drinking water, sufficient food, and secure shelter.
-The direct damage caused by climate change-related extreme weather events such as heatwaves, floods, droughts, and storms is apparent, resulting in immediate loss of life, injury, and displacement.]]></description>
 </item>
 </channel>
 </rss>
