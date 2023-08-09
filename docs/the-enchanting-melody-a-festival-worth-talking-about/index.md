@@ -1,8 +1,6 @@
 # The Enchanting Melody: A Festival Worth Talking About
 
 
-# The Enchanting Melody: A Festival Worth Talking About
-
 `My memory goes back to my childhood years`, when I experienced a `cultural festival worth talking about` - the Harvest Moon Festival. `A festival that comes to my mind is` one that brings people together like no other, `fostering the spirit of family and community`. `There is no denying that the Harvest Moon Festival is the most important and eagerly awaited festival in my country`.
 
 `This is an age-old tradition` celebrated on the 15th day of the 8th month of the lunar calendar when the moon shines at its brightest and roundest. It marks an `auspicious day`, symbolizing unity and togetherness.
