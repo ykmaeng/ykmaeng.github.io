@@ -1,15 +1,11 @@
 # Decadal Trends in Energy Demand and Fossil Fuel Availability in Freedonia (1980-2020)
 
 
-## Writing Task 1
-
-You should spend about 20 minutes on this task.
-
-You should write at least 150 words.
+{{< admonition question "Wrting Task 1 - 150 words, 20 minutes" >}}
 
 The graph shows the demand for energy and the energy available from fossil fuels in Freedonia from 1980 to 2020.
 
-<!--more-->
+{{< /admonition >}}
 
 ![Chart](ielts-writing-task1-energy.png "Energy Consumptions Graph in Freedonia (1980-2020)")
 
