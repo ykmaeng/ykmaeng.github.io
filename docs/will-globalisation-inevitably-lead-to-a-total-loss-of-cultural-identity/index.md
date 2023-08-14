@@ -1,7 +1,7 @@
 # Will Globalisation Inevitably Lead to a Total Loss of Cultural Identity?
 
 
-{{< admonition question "Writing Task 2: 250 words in 40 minutes" >}}
+{{< admonition question "Writing Task 2: 250 words, 40 minutes" >}}
 
 As communication and transport continue to grow, societies are becoming more and more alike, leading to a phenomenon known as globalisation. Some people fear that globalisation will inevitably lead to a total loss of cultural identity. To what extent do you agree or disagree?
 

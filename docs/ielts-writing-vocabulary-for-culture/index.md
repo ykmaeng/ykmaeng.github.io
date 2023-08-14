@@ -1,17 +1,5 @@
----
-title: "Culture-Related Expressions for Essay Writing"
-subtitle: ""
-date: 2023-08-08T20:45:09+12:00
-tags: ["ielt", "culture"]
-categories: ["ielts", "essay"]
-author: "ChatGPT"
-authorLink: ""
+# IELTS Writing Vocabulary for Culture
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 Expressions:
 
@@ -79,3 +67,4 @@ Yet, with global influences permeating every corner, some fear that traditions h
 In conclusion, while the landscape of globalisation is ever-evolving, it offers a sound model for nations to collaborate and coexist. By celebrating our differences and creating a harmonious atmosphere, we ensure that the essence of individual cultural identities remains unshaken amidst the global tide.
 
 {{< /admonition >}}
+

@@ -1,7 +1,7 @@
 # Decadal Trends in Energy Demand and Fossil Fuel Availability in Freedonia (1980-2020)
 
 
-{{< admonition question "Wrting Task 1 - 150 words, 20 minutes" >}}
+{{< admonition question "Wrting Task 1: 150 words, 20 minutes" >}}
 
 The graph shows the demand for energy and the energy available from fossil fuels in Freedonia from 1980 to 2020.
 
