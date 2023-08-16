@@ -1,5 +1,5 @@
 ---
-title: "IELTS Writing Vocabulary for Medicine"
+title: "IELTS: Writing Vocabulary for Medicine"
 subtitle: ""
 date: 2023-08-15T00:42:23+12:00
 tags: ["medicine", "vocabulary", "writing"]

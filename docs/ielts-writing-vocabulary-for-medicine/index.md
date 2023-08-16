@@ -1,4 +1,4 @@
-# IELTS Writing Vocabulary for Medicine
+# IELTS: Writing Vocabulary for Medicine
 
 
 1. **Alternative medicine**: Medical practices that are not part of standard care. Examples include acupuncture and herbal treatments.
