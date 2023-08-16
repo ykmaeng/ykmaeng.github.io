@@ -45,7 +45,7 @@ The report does a commendable job at providing a structured and concise analysis
 Overall, the report does a good job at providing an overview of the data from the charts. With a few refinements, it could be even more effective in conveying the information clearly and concisely.
 {{< /admonition >}}
 
-{{< admonition note "Paraphrased Version by ChatGPT" >}}
+{{< admonition note "Paraphrased Version by ChatGPT" false >}}
 The pie charts illustrate the distribution of six primary causes of death in the USA for the years 1975 and 2002. Overall, heart disease and the 'other' category dominated as leading causes of mortality during these years, with lung disease accounting for the smallest portion.
 
 In 1975, heart diseases took the lead, making up 38% of the deaths, closely followed by the 'other' category at 4% less. Cancer was the next significant cause, standing at half the percentage of the 'other' category. Deaths due to accidents, pneumonia, and lung disease were relatively close, with percentages spanning from 2% to 6%.

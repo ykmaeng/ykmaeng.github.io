@@ -82,15 +82,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   [[menu.main]]
     weight = 5
-    identifier = 'news'
-    name = "News"
-    url = "/news/"
-    pre = ""
-    post = ""
-    title = ""
-
-  [[menu.main]]
-    weight = 6
     identifier = 'about'
     name = "About"
     url = "/about/"
@@ -228,7 +219,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "이 곳은 제 일상을 기록하는 블로그입니다 <3"
+      subtitle = "영어공부용 자료와 일상을 기록합니다..^ _^/ <3"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
