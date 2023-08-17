@@ -48,24 +48,24 @@ lightgallery: true
 
 **UP OR DOWN QUICKLY**
 - **rapidly** (`adv`): The number of smartphones in use has **`risen rapidly`** over the last ten years.
-- **rapid** (`adj`): In this decade, there was a rapid **`increase`** in smartphone use.
+- **rapid** (`adj`): In this decade, there was a **`rapid increase`** in smartphone use.
 - **suddenly** (`adv`): Employment figures **`dropped suddenly`** during the following ten years.
-- **sudden** (`adj`): The next decade saw a sudden **`decrease`** in employment figures.
+- **sudden** (`adj`): The next decade saw a **`sudden decrease`** in employment figures.
 - **sharply** (`adv`): The price of textbooks **`rose sharply`**.
-- **sharp** (`adj`): There was a sharp **`rise`** in the price of textbooks.
+- **sharp** (`adj`): There was a **`sharp rise`** in the price of textbooks.
 - **dramatically** (`adv`): Exports **`fell dramatically`** last year.
-- **dramatic** (`adj`): There was a dramatic **`fall`** in exports last year.
+- **dramatic** (`adj`): There was a **`dramatic fall`** in exports last year.
 - **significantly** (`adv`): Property taxes **`rose significantly`** in 2014.
-- **significant** (`adj`): There was a significant **`rise`** in property taxes in 2014.
+- **significant** (`adj`): There was a **`significant rise`** in property taxes in 2014.
 - **steeply** (`adv`): The number of people attending the event **`increased steeply`** in 2013.
-- **steep** (`adj`): The year 2013 saw a steep **`increase`** in the number of people attending the event.
-- **major** (`adj`): A major **`expansion`** of the company's parent department is expected in the next few years.
+- **steep** (`adj`): The year 2013 saw a **`steep increase`** in the number of people attending the event.
+- **major** (`adj`): A **`major expansion`** of the company's parent department is expected in the next few years.
 
 **UP OR DOWN MORE SLOWLY**
 - **steadily** (`adv`): The number of tourists visiting the park **`rose steadily`**.
-- **steady** (`adj`): The park experienced a steady **`increase`** in the number of tourists.
+- **steady** (`adj`): The park experienced a **`steady increase`** in the number of tourists.
 - **gradually** (`adv`): The population of the province **`gradually declined`**.
-- **gradual** (`adj`): There was a gradual **`decline`** in the population of the province.
+- **gradual** (`adj`): There was a **`gradual decline`** in the population of the province.
 - **slightly** (`adv`): Bus fares may **`go up slightly`**.
-- **slight** (`adj`): A slight **`increase`** in bus fares is expected.
-- **minor** (`adj`): There were minor **`fluctuations`** in the value of raw materials.
+- **slight** (`adj`): A **`slight increase`** in bus fares is expected.
+- **minor** (`adj`): There were **`minor fluctuations`** in the value of raw materials.

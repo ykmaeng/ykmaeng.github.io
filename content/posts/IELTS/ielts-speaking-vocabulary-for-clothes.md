@@ -2,8 +2,8 @@
 title: "IELTS: Speaking Vocabulary for Clothes"
 subtitle: ""
 date: 2023-08-16T22:15:49+12:00
-tags: ["clothe", "vocabulary"]
-categories: ["ielts", "speaking"]
+tags: ["speaking", "clothe", "vocabulary"]
+categories: ["ielts"]
 author: "Young"
 authorLink: ""
 

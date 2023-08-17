@@ -3,7 +3,7 @@ title: "다니엘 첫 학교가는 날"
 subtitle: "First Day of School for My Son"
 date: 2023-07-17T19:46:19+12:00
 tags: ["다니엘", "첫등교", "학교", "실버데일스쿨", "silverdale"]
-categories: ["일상", "life"]
+categories: ["life"]
 author: "Young"
 authorLink: ""
 

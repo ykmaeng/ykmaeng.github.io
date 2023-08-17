@@ -3,7 +3,7 @@ title: "So-So한 일상이 행복하다."
 subtitle: "Ordinary life is happy."
 date: 2023-07-08T15:22:08+12:00
 tags: ["일상", "life", "여유", "커피", "고양이"]
-categories: ["일상", "life"]
+categories: ["life"]
 author: "Young"
 authorLink: ""
 
