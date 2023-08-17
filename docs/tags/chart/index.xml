@@ -4,7 +4,18 @@
         <link>https://www.helloyou.ng/tags/chart/</link>
         <description>chart - Tag - Young&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-un</language><managingEditor>young@tellet.com (Young)</managingEditor>
-            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Wed, 16 Aug 2023 21:08:36 &#43;1200</lastBuildDate><atom:link href="https://www.helloyou.ng/tags/chart/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Thu, 17 Aug 2023 22:46:16 &#43;1200</lastBuildDate><atom:link href="https://www.helloyou.ng/tags/chart/" rel="self" type="application/rss+xml" /><item>
+    <title>IELTS: Writing Task 1</title>
+    <link>https://www.helloyou.ng/ielts-writing-task1/</link>
+    <pubDate>Thu, 17 Aug 2023 22:46:16 &#43;1200</pubDate>
+    <author>Young</author>
+    <guid>https://www.helloyou.ng/ielts-writing-task1/</guid>
+    <description><![CDATA[Structure 1. Introduction:
+Start your essay by paraphrasing the question and providing a brief overview of the chart or graph. Mention the type of chart (e.g., bar chart, line graph, pie chart, table) and the main subject or topic it represents.
+For example: &ldquo;The given bar chart illustrates the sales figures of three different products in a department store over a period of five years.&rdquo;
+The given chart/graph presents&hellip; The provided visual data illustrates&hellip; This bar chart/line graph/pie chart/table depicts&hellip; 2.]]></description>
+</item>
+<item>
     <title>IELTS: Words and Phrases to Describe Trends</title>
     <link>https://www.helloyou.ng/ietls-words-and-phrases-to-describe-trends/</link>
     <pubDate>Wed, 16 Aug 2023 21:08:36 &#43;1200</pubDate>
@@ -18,8 +29,7 @@
     <pubDate>Wed, 09 Aug 2023 21:32:13 &#43;1200</pubDate>
     <author>ChatGPT</author>
     <guid>https://www.helloyou.ng/average-temperature-and-rainfall-in-dubai/</guid>
-    <description><![CDATA[Average Temperature and Rainfall in Dubai Introduction:
-The table and line graph present the monthly variations in average temperature and rainfall in Dubai throughout the year. The purpose of these surveys is to discern patterns and correlations between temperature and precipitation over the course of a year. The units of measurement are degrees Celsius for temperature and centimeters for rainfall. The data has been collated from the Dubai Meteorological Department.]]></description>
+    <description><![CDATA[Average Temperature and Rainfall in Dubai The table and line graph present the monthly variations in average temperature and rainfall in Dubai throughout the year. The purpose of these surveys is to discern patterns and correlations between temperature and precipitation over the course of a year. The units of measurement are degrees Celsius for temperature and centimetres for rainfall. The data has been collected from the Dubai Meteorological Department.]]></description>
 </item>
 </channel>
 </rss>

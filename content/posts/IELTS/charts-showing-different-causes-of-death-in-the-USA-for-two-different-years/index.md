@@ -17,6 +17,8 @@ lightgallery: true
 The charts below show different causes of death in the USA for two different years. Write a report for a university lecturer describing the information shown below.
 {{< /admonition >}}
 
+![Chart](ielts-pie-causes-of-death-in-the-usa.jpeg "Causes of Death in the USA")
+
 ### My Writing
 
 The pie charts `display` the `proportion of` six `primary culprits of` death in the USA, and `this survey was conducted in` 1975 and 2002.
