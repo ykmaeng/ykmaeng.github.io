@@ -1,4 +1,4 @@
-# IELTS: Speaking Vocabulary for Clothes
+# IELTS Speaking Vocabulary for Clothes
 
 
 ### Vocabulary

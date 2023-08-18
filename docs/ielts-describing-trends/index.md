@@ -1,4 +1,4 @@
-# IELTS: Describing Trends
+# IELTS Describing Trends
 
 
 ## DESCRIBING TRENDS

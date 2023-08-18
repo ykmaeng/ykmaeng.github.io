@@ -1,4 +1,4 @@
-# IELTS: Writing Task 1
+# IELTS Writing Task 1
 
 
 ### Structure
