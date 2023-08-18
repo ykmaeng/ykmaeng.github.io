@@ -1,5 +1,5 @@
 ---
-title: "IELTS: Writing Vocabulary for Culture"
+title: "IELTS Writing Vocabulary for Culture"
 subtitle: ""
 date: 2023-08-08T20:45:09+12:00
 tags: ["culture", "writing", "vocabulary"]

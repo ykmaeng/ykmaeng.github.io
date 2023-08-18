@@ -1,5 +1,5 @@
 ---
-title: "IELTS: Writing Task 1"
+title: "IELTS Writing Task 1"
 subtitle: ""
 date: 2023-08-17T22:46:16+12:00
 tags: ["wrting", "chart", "graph", "pie", "diagram"]

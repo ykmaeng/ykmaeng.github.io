@@ -1,5 +1,5 @@
 ---
-title: "IELTS: Describing Trends"
+title: "IELTS Describing Trends"
 subtitle: "by ICL Education Group"
 date: 2023-08-16T20:24:32+12:00
 tags: ["writing", "graphs", "trend"]
