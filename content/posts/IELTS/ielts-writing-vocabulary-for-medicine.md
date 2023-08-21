@@ -13,33 +13,59 @@ lightgallery: true
 # draft: true
 ---
 
-1. **Alternative medicine**: Medical practices that are not part of standard care. Examples include acupuncture and herbal treatments.
-2. **Traditional medicine**: Practices that have been passed down through generations, often based on cultural beliefs and practices.
-3. **Espoused system**: A system or belief that one promotes or adopts.
-4. **Western medicine**: A system of medicine based on scientific research and the use of medications and surgeries; often contrasted with traditional or alternative medicines.
-5. **Comprises a range of physical therapies**: Refers to various therapeutic practices that involve physical methods such as massage, physiotherapy, etc.
-6. **Panacea**: A remedy for all diseases or problems.
-7. **Psychological / Physiological / Emotional**: Pertaining to the mind, the body's functions, and feelings, respectively.
-8. **Holistic approach**: Treating the whole person rather than just the symptoms of a disease.
-9. **Chronic illness**: A long-lasting health condition that may not be cured.
-10. **Acute illness**: A sudden illness that is usually severe but lasts a short time.
-11. **Alleviate / Mitigate**: To make something less severe or painful.
-12. **Well documented**: Having a lot of written evidence or records.
-13. **Side effects**: Unwanted effects of a medication or treatment.
-14. **Empirical evidence**: Information obtained through observation or experimentation.
-15. **Anecdotal evidence**: Information based on personal accounts rather than facts or research.
-16. **At infancy stage**: In the very early stages of development.
-17. **People are turning to**: People are starting to use or adopt a particular method or approach.
-18. **There is a swing away from**: There is a noticeable change or shift away from a particular trend or practice.
-19. **It is a more fashionable term**: It is a more popular or trendy term.
-20. **Practitioners of medicine**: Individuals who practice medicine, such as doctors or healers.
-21. **Scientifically proven**: Verified or confirmed through scientific methods.
-22. **Medical breakthrough**: A significant discovery in the field of medicine.
-23. **Placebo effect**: When a patient feels better after receiving a treatment with no therapeutic value, believing it to be effective.
-24. **Optimistic attitude**: A disposition or mindset that expects positive outcomes or focuses on the positive aspects of situations.
-25. **Epidemic**: A widespread occurrence of a particular disease in a specific community or region during a specific time period.
-26. **Endemic**: Refers to a disease or condition regularly found and consistently present in a particular geographic area or population.
-27. **Pandemic**: An outbreak of a disease that occurs on a global scale, affecting a large number of people and spreading across countries and continents.
+1. **Alternative medicine** (ɔːlˈtɜːrnətɪv ˈmɛdsɪn): Medical practices that are not part of standard care. Examples include acupuncture and herbal treatments.
+
+2. **Traditional medicine** (trəˈdɪʃənl ˈmɛdsɪn): Practices that have been passed down through generations, often based on cultural beliefs and practices.
+
+3. **Espoused system** (ɪˈspaʊzd ˈsɪstəm): A system or belief that one promotes or adopts.
+
+4. **Western medicine** (ˈwɛstərn ˈmɛdsɪn): A system of medicine based on scientific research and the use of medications and surgeries; often contrasted with traditional or alternative medicines.
+
+5. **Comprises a range of physical therapies** (kəmˈpraɪz ə reɪndʒ ɒv ˈfɪzɪkəl θerəpiːz): Refers to various therapeutic practices that involve physical methods such as massage, physiotherapy, etc.
+
+6. **Panacea** (pænəˈsiːə): A remedy for all diseases or problems.
+
+7. **Psychological / Physiological / Emotional** (ˌsaɪkəˈlɒdʒɪkəl / ˌfɪziəˈlɒdʒɪkəl / ɪˈməʊʃənəl): Pertaining to the mind, the body’s functions, and feelings, respectively.
+
+8. **Holistic approach** (həʊˈlɪstɪk əˈprəʊtʃ): Treating the whole person rather than just the symptoms of a disease.
+
+9. **Chronic illness** (ˈkrɒnɪk ˈɪlnəs): A long-lasting health condition that may not be cured.
+
+10. **Acute illness** (əˈkjuːt ˈɪlnəs): A sudden illness that is usually severe but lasts a short time.
+
+11. **Alleviate / Mitigate** (əˈliːviːeɪt / ˈmɪtɪgeɪt): To make something less severe or painful.
+
+12. **Well documented** (wɛl ˈdɒkjʊmɛntɪd): Having a lot of written evidence or records.
+
+13. **Side effects** (saɪd ɪˈfɛkts): Unwanted effects of a medication or treatment.
+
+14. **Empirical evidence** (ɛmˈpɪrɪkəl ˈɛvɪdəns): Information obtained through observation or experimentation.
+
+15. **Anecdotal evidence** (ænɪkˈdoʊtl ˈɛvɪdəns): Information based on personal accounts rather than facts or research.
+
+16. **At infancy stage** (æt ˈɪnfənsi steɪdʒ): In the very early stages of development.
+
+17. **People are turning to** (ˈpiːpl ɑːr ˈtɜːrnɪŋ tuː): People are starting to use or adopt a particular method or approach.
+
+18. **There is a swing away from** (ðɛr ɪz ə swɪŋ əˈweɪ frɒm): There is a noticeable change or shift away from a particular trend or practice.
+
+19. **It is a more fashionable term** (ɪt ɪz ə mɔːr ˈfæʃənəbl tɜːrm): It is a more popular or trendy term.
+
+20. **Practitioners of medicine** (prækˈtɪʃənərz ɒv ˈmɛdsɪn): Individuals who practice medicine, such as doctors or healers.
+
+21. **Scientifically proven** (ˌsaɪənˈtɪfɪkli ˈpruːvn): Verified or confirmed through scientific methods.
+
+22. **Medical breakthrough** (ˈmɛdɪkəl ˈbreɪkθruː): A significant discovery in the field of medicine.
+
+23. **Placebo effect** (pləˈsiːboʊ ɪˈfɛkt): When a patient feels better after receiving a treatment with no therapeutic value, believing it to be effective.
+
+24. **Optimistic attitude** (ˌɒptɪˈmɪstɪk ˈætɪˌtjuːd): A disposition or mindset that expects positive outcomes or focuses on the positive aspects of situations.
+
+25. **Epidemic** (ˌɛpɪˈdɛmɪk): A widespread occurrence of a particular disease in a specific community or region during a specific time period.
+
+26. **Endemic** (ɛnˈdɛmɪk): Refers to a disease or condition regularly found and consistently present in a particular geographic area or population.
+
+27. **Pandemic** (pænˈdɛmɪk): An outbreak of a disease that occurs on a global scale, affecting a large number of people and spreading across countries and continents.
 
 {{< admonition note "Example" >}}
 

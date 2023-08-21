@@ -2,7 +2,7 @@
 title: "Decadal Trends in Energy Demand and Fossil Fuel Availability in Freedonia (1980-2020)"
 subtitle: ""
 date: 2023-08-13T15:47:34+12:00
-tags: ["energy", "wrting"]
+tags: ["chart", "energy", "wrting"]
 categories: ["ielts", "chart"]
 author: "ChatGPT"
 authorLink: ""

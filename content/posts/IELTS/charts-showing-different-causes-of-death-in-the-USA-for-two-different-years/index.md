@@ -2,7 +2,7 @@
 title: "Charts Showing Different Causes of Death in the USA for Two Different Years"
 subtitle: ""
 date: 2023-08-15T02:02:56+12:00
-tags: ["pie", "charts", "writing", "death", "USA"]
+tags: ["pie", "chart", "writing", "death", "USA"]
 categories: ["ielts", "chart"]
 author: "Young"
 authorLink: ""

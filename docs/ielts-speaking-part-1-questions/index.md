@@ -222,7 +222,7 @@
 
 {{< /admonition >}}
 
-{{< admonition question "Public Transport*" false >}}
+{{< admonition question "Public Transport" false >}}
 
 **1. Is it convenient to take a bus/taxi in your city?**
 

@@ -1,57 +1,80 @@
 # IELTS Writing Vocabulary for Culture
 
 
-Expressions:
+1. **Borderless world** (ˈbɔːrdərləs wɜːrld): 
+   A concept where geographical boundaries become less relevant due to technological advancements, resulting in increased connectivity and interaction between countries and cultures.
 
-- **Borderless world**: A concept where geographical boundaries become less relevant due to technological advancements, resulting in increased connectivity and interaction between countries and cultures.
+2. **Globalisation is growing** (ˌgloʊbəlaɪˈzeɪʃən ɪz ˈgroʊɪŋ): 
+   The increasing interconnection and interdependence of the world’s economies, societies, and cultures.
 
-- **Globalisation is growing**: The increasing interconnection and interdependence of the world's economies, societies, and cultures.
+3. **Demolished barriers** (dɪˈmɑːlɪʃt bærɪərz): 
+   The removal or reduction of obstacles or hindrances, often in the context of communication, trade, or cultural exchange.
 
-- **Demolished barriers**: The removal or reduction of obstacles or hindrances, often in the context of communication, trade, or cultural exchange.
+4. **Cultures transcend national boundaries** (ˈkʌltʃərz trænˈsɛnd ˈnæʃənəl ˈbaʊndəriz): 
+   Cultural elements and influences are not confined to a single country but spread and are shared across borders.
 
-- **Cultures transcend national boundaries**: Cultural elements and influences are not confined to a single country but spread and are shared across borders.
+5. **Gesture of respect** (ˈdʒɛstʃər ɒv rɪˈspɛkt): 
+   An act showing admiration or reverence for someone or something.
 
-- **Gesture of respect**: An act showing admiration or reverence for someone or something.
+6. **Indigenous culture** (ɪnˈdɪdʒɪnəs ˈkʌltʃər): 
+   The customs, traditions, and values of native or original inhabitants of a region.
 
-- **Indigenous culture**: The customs, traditions, and values of native or original inhabitants of a region.
+7. **Embrace different cultures** (ɪmˈbreɪs ˈdɪfərənt ˈkʌltʃərz): 
+   To accept, adopt, or appreciate the customs and traditions of various cultures.
 
-- **Embrace different cultures**: To accept, adopt, or appreciate the customs and traditions of various cultures.
+8. **Exacerbates discrimination** (ɪgˈzæsərbeɪts dɪˌskrɪmɪˈneɪʃən): 
+   Intensifies or worsens unfair treatment based on race, age, gender, etc.
 
-- **Exacerbates discrimination**: Intensifies or worsens unfair treatment based on race, age, gender, etc.
+9. **Prejudiced against** (ˈprɛdʒɪdɪst əˈɡenst): 
+   Holding an unfounded or biased opinion or dislike against someone or something, often without adequate knowledge.
 
-- **Prejudiced against**: Holding an unfounded or biased opinion or dislike against someone or something, often without adequate knowledge.
+10. **Biased towards** (ˈbaɪəst tɔːrdz): 
+    Showing an unjust favoritism or preference for something or someone.
 
-- **Biased towards**: Showing an unjust favoritism or preference for something or someone.
+11. **Idiosyncratic practices** (ˌɪdioʊsɪnˈkrætɪk ˈpræktɪsɪz): 
+    Unique or distinctive habits, customs, or behaviors specific to an individual or culture.
 
-- **Idiosyncratic practices**: Unique or distinctive habits, customs, or behaviors specific to an individual or culture.
+12. **Cultural diversity** (ˈkʌltʃərəl daɪˈvɜːrsɪti): 
+    The existence of a variety of cultural groups within a society.
 
-- **Cultural diversity**: The existence of a variety of cultural groups within a society.
+13. **Provides opportunities for a healthy exchange of ideas** (prəˈvaɪdz ˌɑːpərˈtuːnɪtiz fɔːr ə ˈhɛlθi ɪksˈtʃeɪndʒ ɒv aɪˈdiːəz): 
+    Facilitates constructive and beneficial sharing of thoughts and concepts.
 
-- **Provides opportunities for a healthy exchange of ideas**: Facilitates constructive and beneficial sharing of thoughts and concepts.
+14. **Have tolerance** (hæv ˈtɑːlərəns): 
+    The ability or willingness to tolerate or accept opinions or behavior you may not agree with.
 
-- **Have tolerance**: The ability or willingness to tolerate or accept opinions or behavior you may not agree with.
+15. **Broadens our horizon** (ˈbroʊdənz aʊər hɪˈraɪzn): 
+    Expands our perspectives, understanding, or experiences.
 
-- **Broadens our horizon**: Expands our perspectives, understanding, or experiences.
+16. **Coexistence of different cultures** (koʊˌɪgˈzɪstəns ɒv ˈdɪfərənt ˈkʌltʃərz): 
+    Different cultural groups living together in harmony without losing their distinct identities.
 
-- **Coexistence of different cultures**: Different cultural groups living together in harmony without losing their distinct identities.
+17. **Should be dealt with caution and respect** (ʃʊd biː delt wɪθ ˈkɔːʃən ænd rɪˈspɛkt): 
+    Matters should be approached carefully, considering the feelings and rights of others.
 
-- **Should be dealt with caution and respect**: Matters should be approached carefully, considering the feelings and rights of others.
+18. **Linked inextricably** (lɪŋkt ɪnˈɛkstrɪkəbli): 
+    Connected in a way that cannot be separated or disentangled.
 
-- **Linked inextricably**: Connected in a way that cannot be separated or disentangled.
+19. **Crucial to the understanding of** (ˈkruːʃəl tuː ðiː ˌʌndərˈstændɪŋ ɒv): 
+    Essential or vital for comprehending a particular topic or concept.
 
-- **Crucial to the understanding of**: Essential or vital for comprehending a particular topic or concept.
+20. **Maintaining social cohesion** (meɪnˈteɪnɪŋ ˈsoʊʃəl koʊˈhiːʒən): 
+    Preserving the harmony and unity within a society or group.
 
-- **Maintaining social cohesion**: Preserving the harmony and unity within a society or group.
+21. **Creates a harmonious atmosphere** (kriˈeɪts ə hɑːrˈmoʊniəs ˈætməsfɪər): 
+    Establishes a peaceful and balanced environment.
 
-- **Creates a harmonious atmosphere**: Establishes a peaceful and balanced environment.
+22. **Tradition has fallen into abeyance** (trəˈdɪʃən hæz ˈfɔːlən ɪntoʊ əˈbiːəns): 
+    A custom or practice that has become obsolete or is no longer observed.
 
-- **Tradition has fallen into abeyance**: A custom or practice that has become obsolete or is no longer observed.
+23. **Extinction of indigenous culture** (ɪkˈstɪŋkʃən ɒv ɪnˈdɪdʒɪnəs ˈkʌltʃər): 
+    The complete disappearance or eradication of the customs and traditions of native populations.
 
-- **Extinction of indigenous culture**: The complete disappearance or eradication of the customs and traditions of native populations.
+24. **Minority groups** (maɪˈnɒrɪti gruːps): 
+    Groups that are smaller in number in comparison to the majority of the population, often distinguished by race, religion, or ethnicity.
 
-- **Minority groups**: Groups that are smaller in number in comparison to the majority of the population, often distinguished by race, religion, or ethnicity.
-
-- **Sound model**: A well-structured, effective, or reliable framework or example.
+25. **Sound model** (saʊnd ˈmɑːdl): 
+    A well-structured, effective, or reliable framework or example.
 
 {{< admonition note "An example essay" >}}
 **The Impact of Globalisation on Cultural Dynamics**
