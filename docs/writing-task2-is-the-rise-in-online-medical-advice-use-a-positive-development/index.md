@@ -1,17 +1,5 @@
----
-title: "Is the Rise in Online Medical Advice Use a Positive Development?"
-subtitle: ""
-date: 2023-08-15T00:50:21+12:00
-tags: ["medical"]
-categories: ["ielts", "essay"]
-author: "Young"
-authorLink: ""
+# Writing Task2: Is the Rise in Online Medical Advice Use a Positive Development?
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 {{< admonition question "Wrting Task 2: 250 words, 40 minutes" >}}
 Nowadays, more and more people seek online medical advice. Why do you think this is happening? Do you think this is a good development?

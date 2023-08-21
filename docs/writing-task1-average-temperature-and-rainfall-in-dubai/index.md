@@ -1,17 +1,5 @@
----
-title: "Average Temperature and Rainfall in Dubai"
-subtitle: ""
-date: 2023-08-09T21:32:13+12:00
-tags: ["writing","temperature","rainfall","dubai", "chart"]
-categories: ["ielts", "chart"]
-author: "ChatGPT"
-authorLink: ""
+# Writing Task 1: Average Temperature and Rainfall in Dubai
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 ![Chart](ielts-chart-dubai.png "Average Temperature and Rainfall in Dubai")
 

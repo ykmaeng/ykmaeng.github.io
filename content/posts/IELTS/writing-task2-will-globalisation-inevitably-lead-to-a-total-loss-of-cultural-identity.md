@@ -1,5 +1,5 @@
 ---
-title: "Will Globalisation Inevitably Lead to a Total Loss of Cultural Identity?"
+title: "Writing Task 2: Will Globalisation Inevitably Lead to a Total Loss of Cultural Identity?"
 subtitle: ""
 date: 2023-08-09T22:00:18+12:00
 tags: ["writing", "essay", "chatgpt", "globalisation", "culture"]
