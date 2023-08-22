@@ -1,5 +1,5 @@
 ---
-title: "Migration and Cultural Integration: A Dual Perspective"
+title: "Writing Task 2: Migration and Cultural Integration: A Dual Perspective"
 subtitle: ""
 date: 2023-08-09T14:57:26+12:00
 tags: ["migrations", "culture"]

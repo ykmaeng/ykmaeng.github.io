@@ -2,8 +2,8 @@
 title: "IELTS Writing Vocabulary for Writing Gender Issues"
 subtitle: ""
 date: 2023-08-21T22:47:53+12:00
-tags: []
-categories: ["life"]
+tags: ["writing", "gender", "sexual", "vocabulary"]
+categories: ["ielts"]
 author: "Young"
 authorLink: ""
 

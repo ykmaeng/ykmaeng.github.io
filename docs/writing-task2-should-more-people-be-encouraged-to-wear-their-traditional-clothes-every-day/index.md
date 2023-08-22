@@ -1,17 +1,5 @@
----
-title: "Should More People Be Encouraged to Wear Their Traditional Clothes Every Day"
-subtitle: ""
-date: 2023-08-13T20:44:18+12:00
-tags: ["tradition", "culture", "writing"]
-categories: ["ielts", "essay"]
-author: "YouChat"
-authorLink: "https://you.com"
+# Writing Task 2: Should More People Be Encouraged to Wear Their Traditional Clothes Every Day
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 {{< admonition question "Wrting Task 2: 250 words, 40 minutes" >}}
 
