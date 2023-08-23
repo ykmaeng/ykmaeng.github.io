@@ -1,5 +1,5 @@
 ---
-title: "IELTS Speaking Vocabulary for Clothes"
+title: "Speaking Vocabulary: Clothes"
 subtitle: ""
 date: 2023-08-16T22:15:49+12:00
 tags: ["speaking", "clothe", "vocabulary"]

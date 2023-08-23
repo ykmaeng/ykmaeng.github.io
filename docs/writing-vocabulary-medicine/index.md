@@ -1,17 +1,5 @@
----
-title: "IELTS Writing Vocabulary for Medicine"
-subtitle: ""
-date: 2023-08-15T00:42:23+12:00
-tags: ["medicine", "vocabulary", "writing"]
-categories: ["ielts"]
-author: "ChatGPT"
-authorLink: ""
+# Writing Vocabulary: Medicine
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 1. **Alternative medicine** (ɔːlˈtɜːrnətɪv ˈmɛdsɪn): Medical practices that are not part of standard care. Examples include acupuncture and herbal treatments.
 

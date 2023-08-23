@@ -1,5 +1,5 @@
 ---
-title: "IELTS: Words and Phrases to Describe Trends"
+title: "Writing Task 1: Words and Phrases to Describe Trends"
 subtitle: ""
 date: 2023-08-16T21:08:36+12:00
 tags: ["writing", "chart", "trend"]

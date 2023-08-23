@@ -1,17 +1,5 @@
----
-title: "IELTS Writing Vocabulary for Writing Gender Issues"
-subtitle: ""
-date: 2023-08-21T22:47:53+12:00
-tags: ["writing", "gender", "sexual", "vocabulary"]
-categories: ["ielts"]
-author: "Young"
-authorLink: ""
+# Writing Vocabulary: Gender Issues
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 1. **Attaining gender equality** (əˈteɪnɪŋ ˈdʒɛndər ɪˈkwɒlɪti): 
 The process of achieving equal opportunities and rights for all genders, particularly in social, political, and economic aspects.

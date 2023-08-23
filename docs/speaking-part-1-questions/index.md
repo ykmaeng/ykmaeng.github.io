@@ -1,17 +1,5 @@
----
-title: "IELTS Speaking Part 1 Questions"
-subtitle: ""
-date: 2023-08-18T20:34:06+12:00
-tags: ["speaking", "questions"]
-categories: ["ielts"]
-author: "Young"
-authorLink: ""
+# Speaking Part 1: Questions
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 {{< admonition question "Email" false >}}
 

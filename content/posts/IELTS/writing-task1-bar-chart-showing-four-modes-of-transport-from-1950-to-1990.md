@@ -21,16 +21,14 @@ Overall, ~~it represents that~~, at the beginning of the survey, more eco-friend
 
 To begin with, in 1950, commuting on foot recorded the highest with 35%, and this was followed by bike, bus, and car in order. Regarding foot, there was a dramatic decrease until 1990; 5% was shown as the proportion. As for bus, it presented a similar trend to foot, starting at 30% and falling ~~down~~ to 5%. In terms of the bus, it showed marginal changes, going from 20% at first to 25% and then 15% in the end. Turning to the car, it was depicted as an exponential increase, beginning at 5% and reaching 35%. (161 words)
 
-{{< admonition feedback "Revised version of YouChat" >}}
-The bar chart provides data on the percentages of different modes of commuting in a European city over four decades, from 1950 to 1990. The modes of commuting considered are walking, cycling, bus, and car.
+{{< admonition feedback "Revised version by Bing Chat" >}}
+The bar chart illustrates the percentage of commuters who used four different types of transportation to travel to work in a European city in four different years, from 1950 to 1990. The types of transportation are walking, cycling, bus, and car.
 
-The most striking trend is the major shift from more eco-friendly modes of commuting, such as walking and cycling, to car use by the end of the period.
+The main trend that can be observed from the chart is the significant shift from more environmentally friendly modes of transportation, such as walking and cycling, to car use over the four decades.
 
-In 1950, the majority of commuters walked to work, accounting for 35% of the total. However, by 1990, this had dramatically fallen to just 5%. Similarly, commuting by bus also saw a significant drop from 30% in 1950 to 5% in 1990.
+In 1950, walking was the most popular mode of transportation, with 35% of commuters choosing this option. However, by 1990, this proportion had plummeted to only 5%. A similar decline can be seen for bus use, which fell from 30% in 1950 to 5% in 1990.
 
-On the other hand, the use of bicycles for commuting experienced only slight fluctuations, starting at 20% in 1950, peaking at 25% in the middle of the period, and then falling to 15% by 1990.
+In contrast, cycling showed minor variations over time, starting at 20% in 1950, reaching a peak of 25% in 1970, and then dropping to 15% by 1990. Cycling was the second most preferred mode of transportation in all years except for 1990.
 
-Car use, on the other hand, showed remarkable growth over the period, starting at a mere 5% in 1950 and shooting up to 35% by 1990.
-
-In conclusion, while walking and bus use as commuting options reduced drastically over the period, the use of cars surged, becoming the primary mode of commuting by 1990. (194 words)
+Car use exhibited a remarkable increase over the period, starting at a mere 5% in 1950 and soaring to 35% by 1990. By the end of the period, car use had become the dominant mode of transportation for commuters in the city. (200 words)
 {{< /admonition >}}

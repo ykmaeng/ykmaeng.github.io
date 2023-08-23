@@ -1,17 +1,5 @@
----
-title: "IELTS Describing Trends"
-subtitle: "by ICL Education Group"
-date: 2023-08-16T20:24:32+12:00
-tags: ["writing", "graph", "trend"]
-categories: ["ielts", "chart"]
-author: "Young"
-authorLink: ""
+# Writing Task 1: Describing Trends
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 ## DESCRIBING TRENDS
 
