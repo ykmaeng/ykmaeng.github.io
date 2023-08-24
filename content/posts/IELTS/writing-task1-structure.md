@@ -6,6 +6,7 @@ tags: ["wrting", "chart", "graph", "pie", "diagram"]
 categories: ["ielts"]
 author: "Young"
 authorLink: ""
+weight: 0
 
 toc: false
 lightgallery: true
