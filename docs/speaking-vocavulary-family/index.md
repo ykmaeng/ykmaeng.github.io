@@ -3,7 +3,7 @@
 1. **An extended family** /ɪkˈstɛndɪd ˈfæməli/: A family that extends beyond the nuclear family, including grandparents, aunts, uncles, and other relatives.   
 "I grew up in a large extended family, which made holidays and family gatherings very lively."
 
-2. **A nuclear family** /ˈnuːkliər ˈfæməli/: A family group that consists only of parents and children.   
+1. **A nuclear family** /ˈnuːkliər ˈfæməli/: A family group that consists only of parents and children.   
 "Although I have many relatives, my immediate nuclear family is quite small with just my parents and my sister."
 
 1. **I come from a close-knit family** /ˌkloʊsˈnɪt ˈfæməli/: This phrase means that the person's family is very close emotionally, often spending a lot of time together and supporting each other.   
