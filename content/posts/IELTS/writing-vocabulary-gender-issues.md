@@ -3,7 +3,7 @@ title: "Writing Vocabulary: Gender Issues"
 subtitle: ""
 date: 2023-08-21T22:47:53+12:00
 tags: ["writing", "gender", "sexual", "vocabulary"]
-categories: ["ielts"]
+categories: ["ielts", "vocabulary"]
 author: "Young"
 authorLink: ""
 

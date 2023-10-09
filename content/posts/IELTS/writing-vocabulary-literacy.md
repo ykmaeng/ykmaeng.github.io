@@ -3,7 +3,7 @@ title: "Writing Vocabulary: Literacy"
 subtitle: ""
 date: 2023-08-28T22:58:59+12:00
 tags: ["writing", "vocabulary", "literacy"]
-categories: ["ielts"]
+categories: ["ielts", "vocabulary"]
 author: "Young"
 authorLink: ""
 

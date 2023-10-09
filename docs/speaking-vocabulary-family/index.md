@@ -1,17 +1,5 @@
----
-title: "Speaking Vocavulary: Family"
-subtitle: ""
-date: 2023-08-21T21:53:30+12:00
-tags: ["speaking", "vocavulary", "family"]
-categories: ["ielts"]
-author: "Young"
-authorLink: ""
+# Speaking Vocavulary: Family
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 1. **An extended family** /ɪkˈstɛndɪd ˈfæməli/: A family that extends beyond the nuclear family, including grandparents, aunts, uncles, and other relatives.   
 "I grew up in a large extended family, which made holidays and family gatherings very lively."
 
@@ -100,3 +88,4 @@ B: "That's beautiful. Cherish those connections and continue to learn and grow f
 A: "Thank you, I definitely will."
 
 {{< /admonition >}}
+

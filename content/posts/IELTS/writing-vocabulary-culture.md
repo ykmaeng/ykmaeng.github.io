@@ -3,7 +3,7 @@ title: "Writing Vocabulary: Culture"
 subtitle: ""
 date: 2023-08-08T20:45:09+12:00
 tags: ["culture", "writing", "vocabulary"]
-categories: ["ielts"]
+categories: ["ielts", "vocabulary"]
 author: "ChatGPT"
 authorLink: ""
 
