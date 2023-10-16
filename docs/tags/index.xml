@@ -4,7 +4,31 @@
         <link>https://www.helloyou.ng/tags/</link>
         <description>Tags - Tag - Young&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-un</language><managingEditor>young@tellet.com (Young)</managingEditor>
-            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Mon, 09 Oct 2023 22:04:49 &#43;1300</lastBuildDate><atom:link href="https://www.helloyou.ng/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>young@tellet.com (Young)</webMaster><lastBuildDate>Mon, 16 Oct 2023 21:36:50 &#43;1300</lastBuildDate><atom:link href="https://www.helloyou.ng/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>charity</title>
+    <link>https://www.helloyou.ng/tags/charity/</link>
+    <pubDate>Mon, 16 Oct 2023 21:36:50 &#43;1300</pubDate>
+    <author>Young</author>
+    <guid>https://www.helloyou.ng/tags/charity/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>quiz</title>
+    <link>https://www.helloyou.ng/tags/quiz/</link>
+    <pubDate>Mon, 16 Oct 2023 21:36:50 &#43;1300</pubDate>
+    <author>Young</author>
+    <guid>https://www.helloyou.ng/tags/quiz/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>vocabulary</title>
+    <link>https://www.helloyou.ng/tags/vocabulary/</link>
+    <pubDate>Mon, 16 Oct 2023 21:36:50 &#43;1300</pubDate>
+    <author>Young</author>
+    <guid>https://www.helloyou.ng/tags/vocabulary/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>book</title>
     <link>https://www.helloyou.ng/tags/book/</link>
     <pubDate>Mon, 09 Oct 2023 22:04:49 &#43;1300</pubDate>
@@ -37,14 +61,6 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>vocabulary</title>
-    <link>https://www.helloyou.ng/tags/vocabulary/</link>
-    <pubDate>Mon, 09 Oct 2023 22:04:49 &#43;1300</pubDate>
-    <author>Young</author>
-    <guid>https://www.helloyou.ng/tags/vocabulary/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
     <title>literacy</title>
     <link>https://www.helloyou.ng/tags/literacy/</link>
     <pubDate>Mon, 28 Aug 2023 22:58:59 &#43;1200</pubDate>
@@ -66,22 +82,6 @@
     <pubDate>Tue, 22 Aug 2023 23:41:30 &#43;1200</pubDate>
     <author>Young</author>
     <guid>https://www.helloyou.ng/tags/chart/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>table</title>
-    <link>https://www.helloyou.ng/tags/table/</link>
-    <pubDate>Tue, 22 Aug 2023 23:41:30 &#43;1200</pubDate>
-    <author>Young</author>
-    <guid>https://www.helloyou.ng/tags/table/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>travel</title>
-    <link>https://www.helloyou.ng/tags/travel/</link>
-    <pubDate>Tue, 22 Aug 2023 23:41:30 &#43;1200</pubDate>
-    <author>Young</author>
-    <guid>https://www.helloyou.ng/tags/travel/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

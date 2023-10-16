@@ -1,17 +1,5 @@
----
-title: "Speaking Vocabulary: Charity Work / Quiz Show"
-subtitle: ""
-date: 2023-10-16T21:36:50+13:00
-tags: ["charity", "quiz", "vocabulary"]
-categories: ["ielts"]
-author: "Young & YouChat"
-authorLink: ""
+# Speaking Vocabulary: Charity Work / Quiz Show
 
-toc: false
-lightgallery: true
-
-# draft: true
----
 
 #### Introduction
 
